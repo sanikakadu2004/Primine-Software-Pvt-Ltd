@@ -1,18 +1,24 @@
 # Description of each project
 Project 1: CRM Data Analysis and Interactive Dashboard Development using Python and Power BI
+
 Worked on CRM data analysis as part of my internship, starting with understanding core CRM concepts and progressing to data preprocessing and dashboard development.
+
 Initially conducted research on CRM, including its uses, importance, metrics, sales funnel, pipeline, and customer segmentation techniques.
+
 Performed data preprocessing on an unclean CRM dataset using Python by:
 1. Converting raw TXT data into CSV format
 2. Handling missing values and removing duplicates
 3. Standardizing inconsistent date formats into DD-MM-YYYY using Pandas
 4. Preparing clean data for analysis
+
 Developed an interactive Power BI dashboard by:
 1. Cleaning and transforming data using Power Query
 2. Fixing header and data type issues
 3. Creating visuals like KPI cards, sales funnel, lead source analysis, and regional insights
 4. Designing a user-friendly dashboard with filters, slicers, and proper layout
+
 This project helped me build strong skills in data cleaning, data visualization, and transforming raw data into meaningful business insights.
+
 
 Project 2: Sales Analytics and Dashboard Development using Python, Excel, and Power BI
 
