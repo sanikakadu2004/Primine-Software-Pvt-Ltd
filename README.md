@@ -19,7 +19,6 @@ Developed an interactive Power BI dashboard by:
 
 This project helped me build strong skills in data cleaning, data visualization, and transforming raw data into meaningful business insights.
 
-
 Project 2: Sales Analytics and Dashboard Development using Python, Excel, and Power BI
 
 Worked on an end-to-end sales analytics project involving data preprocessing, business logic correction, and interactive dashboard development.
@@ -80,3 +79,52 @@ Applied business rule validation:
 3. Identified and flagged logical inconsistencies in CRM records
 
 This project demonstrates my ability to perform end-to-end data profiling, schema correction, and data quality enhancement to transform raw CRM data into a clean, structured, and analysis-ready dataset.
+
+Project 4: End-to-End ERP Data Processing, Cleaning, Integration, and Business Analysis Dashboard Development using Python and SQL
+
+Worked on a comprehensive end-to-end ERP data analytics project involving data profiling, cleaning, SQL integration, advanced analysis, and dashboard development.
+
+Started with data profiling using Python to understand dataset structure and identify quality issues:
+
+1. Analyzed column types, missing values, and dataset statistics
+2. Detected suspicious fields (missing IDs, negative quantities, inconsistent order status, missing delivery dates)
+3. Validated date logic (order_date ≤ delivery_date) and supplier inconsistencies
+
+Performed data integration with SQL:
+
+1. Loaded dataset into MySQL using Python (SQLAlchemy)
+2. Created raw and cleaned tables for structured storage
+3. Automated data updates from Python to SQL
+
+Conducted SQL-based data quality analysis:
+
+1. Identified missing order IDs, duplicate records, and invalid quantities
+2. Generated data quality reports using SQL queries
+
+Implemented data cleaning using Python:
+
+1. Standardized categorical columns (supplier, city, order status)
+2. Cleaned numeric fields (unit price, quantity) and created revenue column
+3. Normalized mixed date formats and enforced business rules
+
+Performed advanced analysis using SQL & Python:
+
+1. Revenue by product, orders by city, and supplier performance
+2. Time-based analysis (monthly/yearly trends)
+3. Delivery performance evaluation and delay classification
+4. Identified problem areas such as delayed deliveries and inefficient suppliers
+
+Applied advanced data cleaning and feature engineering:
+
+1. Imputed missing values using group-based and hierarchical strategies
+2. Standardized IDs (order_id, customer_id) with unique formats
+3. Created delivery metrics and business-driven features
+
+Developed a comprehensive Power BI dashboard:
+
+1. KPI cards (Total Revenue, Orders, Customers, Avg Delivery Days)
+2. Revenue trends, product performance, and geographic insights
+3. Data quality visualization and Pareto analysis (80/20 rule)
+4. Delivery efficiency, customer segmentation, and operational insights
+
+This project demonstrates my ability to build an end-to-end data pipeline—from raw data processing to advanced analytics and interactive dashboard creation—supporting data-driven decision-making.
